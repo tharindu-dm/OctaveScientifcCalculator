@@ -1,4 +1,7 @@
 %% Scientific Calculator GUI
+%% https://github.com/tharindu-dm/OctaveScientifcCalculator
+%% this is a project of TharinduDM from UCSC
+%% this repo is publicly available purely for learning purposes and do not use for personal submissions.
 
 function scientificCalculator()
     % Main figure for the calculator
